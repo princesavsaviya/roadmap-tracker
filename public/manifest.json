@@ -1,0 +1,19 @@
+{
+  "name": "Roadmap Tracker",
+  "short_name": "Roadmap",
+  "description": "Learning and job hunt tracker, GitHub-backed",
+  "start_url": "/roadmap-tracker/",
+  "scope": "/roadmap-tracker/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/roadmap-tracker/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
